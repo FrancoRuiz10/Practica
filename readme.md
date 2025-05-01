@@ -1,4 +1,4 @@
- Pilares de la POO
+  Pilares de la POO
 ¿Cuáles son los 4 pilares de la programación orientada a objetos y qué aporta cada uno?
 Los pilares del poo son Abstracción, Encapsulación, Herencia y Polimorfismo
 ¿Cuál es la diferencia entre encapsulamiento y abstracción?
@@ -16,3 +16,5 @@ Un decorador en Python es una función que se aplica a otra función para modifi
  
   ¿Qué función interna suele tener un decorador? 
   Un decorador suele tener una función interna llamada wrapper (o similar), que actúa como envoltura para modificar o extender el comportamiento de la función original.
+
+    Alumnos: Franco Ruiz, Kevin Vargas , Juan Gabriel Claros Correia
